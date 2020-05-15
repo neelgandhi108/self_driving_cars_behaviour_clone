@@ -1,4 +1,5 @@
 # Project: Behaviorial Cloning Project
+# Neel Gandhi
 
 Overview
 ---
@@ -162,5 +163,3 @@ I finally randomly shuffled the data set and put 10% of the data into a validati
 
 I used this training data for training the model. The validation set helped determine if the model was over or under fitting. The ideal number of epochs was between 15-20 (trained with 20).
 I used an adam optimizer so that manually training the learning rate wasn't necessary.
-
-Here, you can watch the result from the [video game perspective](https://youtu.be/9sIcmBxahaQ) or [vehicle view](doc/vehicle_view.mp4).
